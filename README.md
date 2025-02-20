@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries when dealing with NULL values.  The `bug.sql` file contains a query that fails when comparing a nullable column to a numeric value.  The `solution.sql` file provides corrected versions of the query, showing how to properly handle NULL values.
